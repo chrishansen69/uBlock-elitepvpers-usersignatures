@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Title: uBlock Elitepvpers Usersignatures
 !uBlock Origin + AdBlock Plus List for Elitepvpers Usersignatures
 !-----------------------Elitepvpers Usersignatures Advertising Filter-----------------------!
 
