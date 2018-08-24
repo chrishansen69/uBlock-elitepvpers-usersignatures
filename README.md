@@ -14,7 +14,7 @@ The list gets updated from time to time, your adblocker will update it then itse
 
 uBlock Origin
 -------------
-####Detailed usage for uBlock Origin:  
+#### Detailed usage for uBlock Origin:  
 Go to the uBlock settings via the "3rd party filters" tab and add the link above at the bottom of the site.
 
 ![Adding the link](img/uBlock1.png)
@@ -26,7 +26,7 @@ Now click on "Parse" and Update now your filter lists.
 
 AdBlock Plus
 -------------
-####Detailed usage for AdBlock Plus:  
+#### Detailed usage for AdBlock Plus:  
 Open then AdBlock Plus options and add a new filter via "Add a different subscription ..."
 
 ![Adblock Plus Interface](img/abp1.png)
